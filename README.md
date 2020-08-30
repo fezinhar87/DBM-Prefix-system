@@ -1,2 +1,7 @@
-# DBM log system
-Versão atualizada e traduzida para pt-br Creditos ao autor original: https://github.com/Livedexe/logging-system-DBM
+# DBM Trocar Prefixo
+
+Comandos
+
+[p]prefixo: para trocar o prefixo
+
+botprefix: caso tenha esquecido seu prefixo basta digitar "botprefix" e o bot ira responder.
